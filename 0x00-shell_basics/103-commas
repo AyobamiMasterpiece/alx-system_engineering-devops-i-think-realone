@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -1a | LC_COLLATE=C sort --field-separator=, -k1,1
-
